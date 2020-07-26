@@ -1,0 +1,20 @@
+﻿  TestProject.cpp
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Matrix.h(15,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Matrix.h(36,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Matrix.h(50,24): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Laba3.cpp(19,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\TestProject\TestProject.cpp(15,20): warning C4129:  A: неизвестная escape-последовательность
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\List.h(103,2): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\List.h(93): message :  во время компиляции функции-члена класс шаблон "TValue List<TValue>::at(size_t)"
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\List.h(93): message :         with
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\List.h(93): message :         [
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\List.h(93): message :             TValue=std::string
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\List.h(93): message :         ]
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Matrix.h(16): message :  выполняется компиляция ссылки на экземпляр шаблон функции "TValue List<TValue>::at(size_t)"
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Matrix.h(16): message :         with
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Matrix.h(16): message :         [
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Matrix.h(16): message :             TValue=std::string
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Matrix.h(16): message :         ]
+C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Laba3\Matrix.h(15): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "List<std::string>"
+     Создается библиотека C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Debug\TestProject.lib и объект C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Debug\TestProject.exp
+  TestProject.vcxproj -> C:\Users\ASUS\Desktop\Лабораторная работа №3\Laba3\Debug\TestProject.dll

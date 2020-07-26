@@ -1,0 +1,3 @@
+C:/Users/Leonid Nikulin/Documents/CLion/aistd3laba/cmake-build-debug/CMakeFiles/aistd3laba.dir
+C:/Users/Leonid Nikulin/Documents/CLion/aistd3laba/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Leonid Nikulin/Documents/CLion/aistd3laba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Leonid Nikulin/Documents/CLion/aistd3laba/main.cpp
+iostream
+-
+windows.h
+-
+time.h
+-
+chrono
+-
+queue
+-
+

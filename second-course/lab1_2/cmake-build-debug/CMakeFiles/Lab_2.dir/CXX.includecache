@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Leonid Nikulin/Documents/CLion/AISTDlab2/SetArray.h
+
+C:/Users/Leonid Nikulin/Documents/CLion/AISTDlab2/SetBinary.h
+
+C:/Users/Leonid Nikulin/Documents/CLion/AISTDlab2/SetList.h
+
+C:/Users/Leonid Nikulin/Documents/CLion/AISTDlab2/SetMachine.h
+
+C:/Users/Leonid Nikulin/Documents/CLion/AISTDlab2/main.cpp
+iostream
+-
+time.h
+-
+SetArray.h
+C:/Users/Leonid Nikulin/Documents/CLion/AISTDlab2/SetArray.h
+SetList.h
+C:/Users/Leonid Nikulin/Documents/CLion/AISTDlab2/SetList.h
+SetBinary.h
+C:/Users/Leonid Nikulin/Documents/CLion/AISTDlab2/SetBinary.h
+SetMachine.h
+C:/Users/Leonid Nikulin/Documents/CLion/AISTDlab2/SetMachine.h
+

@@ -1,0 +1,21 @@
+﻿  CourseWork.cpp
+  Flow.cpp
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(31,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(43,18): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(69,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(123,21): warning C4101:  cap: неиспользованная локальная переменная
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\List.h(90,41): warning C4018:  <=: несоответствие типов со знаком и без знака
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\List.h(89): message :  во время компиляции функции-члена класс шаблон "TypeKey List<TypeKey>::at(size_t)"
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\List.h(89): message :         with
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\List.h(89): message :         [
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\List.h(89): message :             TypeKey=int
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\List.h(89): message :         ]
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(30): message :  выполняется компиляция ссылки на экземпляр шаблон функции "TypeKey List<TypeKey>::at(size_t)"
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(30): message :         with
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(30): message :         [
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(30): message :             TypeKey=int
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(30): message :         ]
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\Flow.cpp(23): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "List<int>"
+  Создание кода...
+C:\Users\ASUS\Desktop\CourseWork\CourseWork\List.h(99,2): warning C4018:  <: несоответствие типов со знаком и без знака
+  CourseWork.vcxproj -> C:\Users\ASUS\Desktop\CourseWork\Debug\CourseWork.exe

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Leonid Nikulin/Documents/CLion/course_work_2sem/headers/interaction.h
+type_car.h
+C:/Users/Leonid Nikulin/Documents/CLion/course_work_2sem/headers/type_car.h
+stdio.h
+-
+
+C:/Users/Leonid Nikulin/Documents/CLion/course_work_2sem/headers/single_linear.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+type_car.h
+C:/Users/Leonid Nikulin/Documents/CLion/course_work_2sem/headers/type_car.h
+single_linear.h
+C:/Users/Leonid Nikulin/Documents/CLion/course_work_2sem/headers/single_linear.h
+interaction.h
+C:/Users/Leonid Nikulin/Documents/CLion/course_work_2sem/headers/interaction.h
+
+C:/Users/Leonid Nikulin/Documents/CLion/course_work_2sem/headers/single_linear.h
+type_car.h
+C:/Users/Leonid Nikulin/Documents/CLion/course_work_2sem/headers/type_car.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/Users/Leonid Nikulin/Documents/CLion/course_work_2sem/headers/type_car.h
+

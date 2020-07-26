@@ -1,0 +1,14 @@
+﻿  Laba2.cpp
+C:\Users\ASUS\source\repos\Laba2\Laba2\Shannon.h(39,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Laba2\Laba2\Shannon.h(62,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Laba2\Laba2\Shannon.h(67,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Laba2\Laba2\Shannon.h(113,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Laba2\Laba2\Shannon.h(143,26): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Laba2\Laba2\Shannon.h(149,26): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Laba2\Laba2\List.h(319,2): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ASUS\source\repos\Laba2\Laba2\List.h(316): message :  во время компиляции функции-члена класс шаблон "bool List<bool>::compare(List<bool>)"
+C:\Users\ASUS\source\repos\Laba2\Laba2\Map.h(471): message :  выполняется компиляция ссылки на экземпляр шаблон функции "bool List<bool>::compare(List<bool>)"
+C:\Users\ASUS\source\repos\Laba2\Laba2\List.h(151): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "List<bool>"
+C:\Users\ASUS\source\repos\Laba2\Laba2\List.h(386): message :  выполняется компиляция ссылки на экземпляр класс шаблон функции "List<T>"
+C:\Users\ASUS\source\repos\Laba2\Laba2\Map.h(485): warning C4715:  map<char,float,List<bool> >::additional_code: значение возвращается не при всех путях выполнения
+  Laba2.vcxproj -> C:\Users\ASUS\source\repos\Laba2\Debug\Laba2.exe
